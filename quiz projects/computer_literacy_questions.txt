@@ -1,0 +1,174 @@
+Question 1: What does CPU stand for?
+A. Central Process Unit
+B. Computer Personal Unit
+C. Central Processor Unit
+D. Central Processing Unit
+Correct Answer: D
+
+Question 2: What is the main function of the RAM in a computer?
+A. Store data permanently
+B. Run the operating system
+C. Store data temporarily
+D. Process data
+Correct Answer: C
+
+Question 3: What is the purpose of the motherboard in a computer?
+A. Control the computer's peripherals
+B. Connect all internal components
+C. Store data permanently
+D. Run the operating system
+Correct Answer: B
+
+Question 4: What does GUI stand for?
+A. General User Interface
+B. Graphical User Interface
+C. General Unifying Interface
+D. Graphical Unifying Interface
+Correct Answer: B
+
+Question 5: Which type of software is designed to harm or exploit computers?
+A. Malware
+B. Shareware
+C. Freeware
+D. Firmware
+Correct Answer: A
+
+Question 6: What is an IP address used for?
+A. Identifying a computer on the internet
+B. Sending emails
+C. Connecting to a printer
+D. Running software applications
+Correct Answer: A
+
+Question 7: What is the purpose of an operating system?
+A. Control hardware components
+B. Browse the internet
+C. Create documents
+D. Play games
+Correct Answer: A
+
+Question 8: What does URL stand for?
+A. Universal Resource Locator
+B. Uniform Resource Locator
+C. Universal Request Locator
+D. Uniform Request Locator
+Correct Answer: B
+
+Question 9: Which file format is commonly used for images?
+A. .txt
+B. .doc
+C. .jpg
+D. .mp3
+Correct Answer: C
+
+Question 10: What is the function of a firewall?
+A. Filter network traffic
+B. Print documents
+C. Play music
+D. Edit images
+Correct Answer: A
+
+Question 11: What is the purpose of a spreadsheet software?
+A. Create presentations
+B. Manage contacts
+C. Analyze data
+D. Edit videos
+Correct Answer: C
+
+Question 12: What is the role of a web browser?
+A. Edit images
+B. Browse the internet
+C. Play music
+D. Write code
+Correct Answer: B
+
+Question 13: What does HTML stand for?
+A. HyperText Markup Language
+B. High-level Text Language
+C. Hyper Transfer Markup Language
+D. Hyperlink and Text Markup Language
+Correct Answer: A
+
+Question 14: Which programming language is known for its readability and ease of use?
+A. C++
+B. Java
+C. Python
+D. Ruby
+Correct Answer: C
+
+Question 15: What is the function of a router in a computer network?
+A. Connect devices within a computer
+B. Connect computers to the internet
+C. Store data permanently
+D. Run the operating system
+Correct Answer: B
+
+Question 16: What is a virus in the context of computers?
+A. A type of hardware
+B. A type of software license
+C. Malicious software
+D. A computer accessory
+Correct Answer: C
+
+Question 17: Which of the following is an example of cloud computing?
+A. Saving files to a local hard drive
+B. Sending emails
+C. Using online storage services
+D. Running software from a CD
+Correct Answer: C
+
+Question 18: What is the purpose of a CPU fan?
+A. Play music
+B. Cool the processor
+C. Connect to the internet
+D. Run the operating system
+Correct Answer: B
+
+Question 19: What is the role of a modem in a computer setup?
+A. Connect to the internet
+B. Edit images
+C. Print documents
+D. Run software applications
+Correct Answer: A
+
+Question 20: What is a LAN?
+A. Local Access Network
+B. Long-range Area Network
+C. Local Area Network
+D. Long-range Access Network
+Correct Answer: C
+
+Question 21: What is the purpose of a cache in a computer?
+A. Store data permanently
+B. Run the operating system
+C. Speed up data access
+D. Connect to the internet
+Correct Answer: C
+
+Question 22: Which of the following is an input device?
+A. Printer
+B. Monitor
+C. Keyboard
+D. Speaker
+Correct Answer: C
+
+Question 23: What is the purpose of an antivirus software?
+A. Edit images
+B. Protect against malicious software
+C. Play music
+D. Run the operating system
+Correct Answer: B
+
+Question 24: What is the file extension for a Word document?
+A. .docx
+B. .txt
+C. .jpg
+D. .mp3
+Correct Answer: A
+
+Question 25: What is the function of the Ctrl + Z keyboard shortcut?
+A. Cut
+B. Copy
+C. Undo
+D. Redo
+Correct Answer: C
